@@ -1,0 +1,24 @@
+Ressources utiles
+
+https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-dataset
+
+Tutoriel classification machine learning
+https://www.geeksforgeeks.org/ml-cancer-cell-classification-using-scikit-learn/
+
+
+Pour le Kmeans trouver le nb cluster "visuellement" Puis trouver numériquement si cela convient.  
+
+Kmeans on breast cancer
+https://gist.github.com/spyhi/ec8e60419d90aefc8537eb557ef35826
+
+seaborn 
+
+Tuto Knn
+https://medium.com/analytics-vidhya/prediction-and-data-visualization-of-breast-cancer-using-k-nearest-neighbor-knn-classifier-df7adadc4872
+
+
+
+Considérer qu'il pourrait y avoir plusieurs type de tumeur. Malgré le fait qu'il n'y ai que deux catégorie malade sain. 
+
+
+Pour le Kmeans faire une selection de variable. Chercher publi ? 
